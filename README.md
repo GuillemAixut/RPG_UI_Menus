@@ -65,6 +65,8 @@ When developing a UI we have to take into account the color palettes and the mea
 
 For example, the color red is usually associated with the life or lives that the player has, on the other hand, blue is usually associated with Mana and even yellow/green in some cases is associated with the energy/stamina bar.
 
+![github 20](https://user-images.githubusercontent.com/99950345/223755442-17562250-3093-4081-9090-9a55eff42825.png)
+
 # User Experience 
 
 An interface must be clean and tidy to convey information accurately to prevent the player from making mistakes during their interaction.
