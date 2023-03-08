@@ -86,7 +86,7 @@ Despite having a user interface with a lot of information that goes unnoticed an
 
 ![github 12](https://user-images.githubusercontent.com/99950345/223749842-55d93726-3184-427a-8f8a-f3776d360b28.png)
 
-Although **_WoW_**'s user interface is usually quite clean and simple, some external applications can modify it to the point of filling the information screen almost completely.
+Although **_World of Warcraft_**'s user interface is usually quite clean and simple, some external applications can modify it to the point of filling the information screen almost completely.
 
 ![github 13](https://user-images.githubusercontent.com/99950345/223750124-996ae5f3-efe2-4b8d-af8f-86126c09727f.png)
 
