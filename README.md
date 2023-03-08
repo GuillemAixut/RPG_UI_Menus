@@ -30,8 +30,8 @@ Some common examples are the life or number of lives, the energy or mana that th
 
 The old reliable, all those elements that exist about the game.
 Like time, points, damage, etc.
-
-https://www.youtube.com/watch?v=QDJDLvLiJww&t=1s
+![image](https://user-images.githubusercontent.com/99950345/223757074-03ac13a9-e094-4e65-9058-5b66ee6c0eac.png)
+  https://www.youtube.com/watch?v=QDJDLvLiJww&t=1s
 
 ## Not Diegetic
 
