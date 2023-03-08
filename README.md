@@ -7,12 +7,14 @@ Provide clear, precise and direct and indirect information to the player so that
 
 ![github 1](https://user-images.githubusercontent.com/99950345/223744802-a585a75e-b6bb-4b0b-8cbd-649268f35189.png)
 
-##Differences between UI and HUD
+## Differences between UI and HUD
 ### UI
 
 The expression UI comes from Interface of User, which stands for User Interface. The idea of ​​the UI is to guide the user through and provide them with information that they can interact with while leaving out the main action of the game.
 
 An example of this are the Menus, for example the options, an inventory or even the purchase menu of a store.
+
+![github 2](https://user-images.githubusercontent.com/99950345/223746083-b1e87580-4e70-43e3-aaa7-a2322786df8b.png) ![github 3](https://user-images.githubusercontent.com/99950345/223746110-badc6e88-8946-44fe-9936-c53193dd6f4f.png)
 
 ### HUD
 
