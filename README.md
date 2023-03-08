@@ -1,4 +1,3 @@
-# RPG_UI_Menus
 ## What is a UI/HUD?
 
 The user interface or UI (User Interface) is a concept that encompasses information architecture, patterns and different visual elements.
