@@ -7,8 +7,18 @@ Provide clear, precise and direct and indirect information to the player so that
 
 ![github 1](https://user-images.githubusercontent.com/99950345/223744802-a585a75e-b6bb-4b0b-8cbd-649268f35189.png)
 
+##Differences between UI and HUD
+### UI
 
+The expression UI comes from Interface of User, which stands for User Interface. The idea of ​​the UI is to guide the user through and provide them with information that they can interact with while leaving out the main action of the game.
 
+An example of this are the Menus, for example the options, an inventory or even the purchase menu of a store.
+
+### HUD
+
+The HUD or Head-up display is the interface that is responsible for displaying relevant information for the player while he is playing the game without such information distracting the player from playing the game.
+
+Some common examples are the life or number of lives, the energy or mana that the character has or the attacks/weapons that we have equipped
 
 
 
