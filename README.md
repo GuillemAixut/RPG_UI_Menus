@@ -4,6 +4,7 @@
 The user interface or UI (User Interface) is a concept that encompasses information architecture, patterns and different visual elements.
 
 Provide clear, precise and direct and indirect information to the player so that he can enjoy the game to the fullest.
+
 ![github 1](https://user-images.githubusercontent.com/99950345/223744802-a585a75e-b6bb-4b0b-8cbd-649268f35189.png)
 
 
