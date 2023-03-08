@@ -59,6 +59,11 @@ A clear example is the blood stains around the screen when your character is dam
 
 https://www.youtube.com/watch?time_continue=1&v=6MZwqMSCBF8&embeds_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_origin=https%3A%2F%2Fdocs.google.com&feature=emb_logo
 
+# Theory of color
+
+When developing a UI we have to take into account the color palettes and the meaning established within the video game community that these have.
+
+For example, the color red is usually associated with the life or lives that the player has, on the other hand, blue is usually associated with Mana and even yellow/green in some cases is associated with the energy/stamina bar.
 
 # User Experience 
 
