@@ -48,6 +48,9 @@ They are those objects that are part of the game scenario but not of the story, 
 the character is not aware that they exist.
 
 For example, wings of light that indicate where there are things.
+
+![github types 2](https://user-images.githubusercontent.com/99950345/223758671-44ace3a1-eef8-4a6e-b299-91efa2549b98.png)
+
 [Link to a The Legend of Zelda: Ocarina of Time video](https://www.youtube.com/watch?v=c8z3mHwxsDQ)
 
 ## Meta
@@ -57,6 +60,8 @@ Similar to non-diegetic but more abstract.
 Elements that, although they do not exist in the universe of the character, seek to be immersive and that the player "feels" the same as the character.
 
 A clear example is the blood stains around the screen when your character is damaged.
+
+![github types 3](https://user-images.githubusercontent.com/99950345/223758745-7b194d19-19ca-44f3-a49d-0df484f0f901.png)
 
 [Link to a Doom Arcade Version video]([https://github.com/ericlr1/Proyecto_1_Guerrilla-War/wiki/Audio#background-music](https://www.youtube.com/watch?time_continue=1&v=6MZwqMSCBF8&embeds_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_origin=https%3A%2F%2Fdocs.google.com&feature=emb_logo)
 
