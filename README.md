@@ -112,32 +112,32 @@ Despite being a great game and one of my favorites, **_Persona 5_** makes it cle
 
 **_Types of UI/HUD_**
 
-https://pressover.news/articulos/evolucion-de-la-ui-en-videojuegos/
-https://rockcontent.com/es/blog/interfaz-de-usuario/#:~:text=La%20interfaz%20de%20usuario%20o,y%20softwares%20de%20diversos%20dispositivos
+[Link 1](https://pressover.news/articulos/evolucion-de-la-ui-en-videojuegos/)
+[Link 2](https://rockcontent.com/es/blog/interfaz-de-usuario/#:~:text=La%20interfaz%20de%20usuario%20o,y%20softwares%20de%20diversos%20dispositivos)
 
 **_Differences between UI and HUD_**
 
-https://datablog.zeus.vision/2017/05/19/diferencias-entre-hud-y-gui/
+[Link 3](https://datablog.zeus.vision/2017/05/19/diferencias-entre-hud-y-gui/)
 
 **_Good UI/HUD examples_**
 
-https://www.3djuegos.com/pc/noticias/10-videojuegos-que-usan-su-interfaz-para-algo-que-para-decirte-cuanta-vida-te-queda-brillantes-contando-su-historia-recurrir-a-palabras
+[Link 4](https://www.3djuegos.com/pc/noticias/10-videojuegos-que-usan-su-interfaz-para-algo-que-para-decirte-cuanta-vida-te-queda-brillantes-contando-su-historia-recurrir-a-palabras)
 
 **_Bad UI/HUD examples_**
 
-https://www.gametopia.es/learning/article/03/2019/60/diseno-ui-para-crear-videojuegos
+[Link 5](https://www.gametopia.es/learning/article/03/2019/60/diseno-ui-para-crear-videojuegos)
 
 **_The best RPGs of the last decade_**
 
-https://www.hobbyconsolas.com/videojuegos/top-juegos/pc/rpg/ultima-decada
+[Link 6](https://www.hobbyconsolas.com/videojuegos/top-juegos/pc/rpg/ultima-decada)
 
 **_Presentation Link_**
 
-https://docs.google.com/presentation/d/1DEm836Qs1OqvS0fURmHF8er36yhVMr6Ja7xSs3NMa8c/edit?usp=sharing
+[Link 7](https://docs.google.com/presentation/d/1DEm836Qs1OqvS0fURmHF8er36yhVMr6Ja7xSs3NMa8c/edit?usp=sharing)
 
 **_UI Wireframes/Templates for your RPG_**
 
-https://drive.google.com/file/d/12O4bFtlX-9WzcWoy6PaA79sdzJpvDjzF/view?usp=sharing
+[Link 8](https://drive.google.com/file/d/12O4bFtlX-9WzcWoy6PaA79sdzJpvDjzF/view?usp=sharing)
 
 
 
