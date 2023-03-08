@@ -22,7 +22,7 @@ The HUD or Head-up display is the interface that is responsible for displaying r
 
 Some common examples are the life or number of lives, the energy or mana that the character has or the attacks/weapons that we have equipped
 
-
+![github 4](https://user-images.githubusercontent.com/99950345/223746231-6aabbc3c-d793-4926-bfb2-1c547fbf0aa6.png)![github 5](https://user-images.githubusercontent.com/99950345/223746269-70e4f592-47e9-4715-87dc-f3782d9c10dc.png)
 
 ## Description
 Guerrilla War, released in Japan as Guevara (ゲバラ), is an overhead run and gun game produced by SNK. Originally released for arcades in 1987 as a coin-operated arcade game, Guerrilla War was later ported to Amstrad CPC, Apple II, Commodore 64, NES, PlayStation Network, and ZX Spectrum.
