@@ -42,6 +42,10 @@ For example, a helmet with its own interface or a watch, etc.
 	
 The Dead Space helmet is a clear example since it has life integrated into the model
 
+![github 14](https://user-images.githubusercontent.com/99950345/223763027-f684b227-f8c0-458e-8b8d-14cca034cfce.png)
+
+[Link to a Super Mario Bros. NES Version video](https://www.youtube.com/watch?v=K5yqXTh1IUw&t=1s)
+
 ## Space
 
 They are those objects that are part of the game scenario but not of the story, that is,  
