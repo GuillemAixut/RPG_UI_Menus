@@ -79,12 +79,15 @@ Must be: Clear, Concise, Coherent, Flexible and Visually Appealing
 **_Undertale_** is the clear example of a simple and neat user interface
 
 ![github 11](https://user-images.githubusercontent.com/99950345/223749625-7196d81d-5c73-4f03-9f95-f1733449d0a7.png)
+
 Despite having a user interface with a lot of information that goes unnoticed and does not bother the player, that is why **_Darkest Dungeon_** is a great example of order and distribution.
 
 ## Bad examples
 
 ![github 12](https://user-images.githubusercontent.com/99950345/223749842-55d93726-3184-427a-8f8a-f3776d360b28.png)
+
 Although **_WoW_**'s user interface is usually quite clean and simple, some external applications can modify it to the point of filling the information screen almost completely.
 
 ![github 13](https://user-images.githubusercontent.com/99950345/223750124-996ae5f3-efe2-4b8d-af8f-86126c09727f.png)
+
 Despite being a great game and one of my favorites, **_Persona 5_** makes it clear to us that more is not equal to better, since despite having a super cool and well-worked UI, it takes away from the rest of the game and in some cases it gets annoying or look weird.
