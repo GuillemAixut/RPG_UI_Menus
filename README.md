@@ -60,16 +60,30 @@ A clear example is the blood stains around the screen when your character is dam
 https://www.youtube.com/watch?time_continue=1&v=6MZwqMSCBF8&embeds_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_origin=https%3A%2F%2Fdocs.google.com&feature=emb_logo
 
 
+# User Experience 
 
+An interface must be clean and tidy to convey information accurately to prevent the player from making mistakes during their interaction.
 
+The following examples are classified only
+taking into account my criteria and nothing else,
+therefore you may not feel
+fully identified or disagree with my
+personal opinion.
 
+Must be: Clear, Concise, Coherent, Flexible and Visually Appealing
 
-## Description
-Guerrilla War, released in Japan as Guevara (ゲバラ), is an overhead run and gun game produced by SNK. Originally released for arcades in 1987 as a coin-operated arcade game, Guerrilla War was later ported to Amstrad CPC, Apple II, Commodore 64, NES, PlayStation Network, and ZX Spectrum.
+## Good examples
 
-Guerrilla War followed the adventures of two unnamed rebel commandos (Che Guevara and Fidel Castro in the Japanese version) as they raid an unnamed Caribbean Island in order to free it from the rule of an unnamed tyrannical dictator. Along the way the players vanquish hordes of enemy soldiers while attempting to rescue hostages (with large score reductions for any hostages killed in the crossfire), collecting weapons from troopers and operating tanks.
+![github 10](https://user-images.githubusercontent.com/99950345/223749341-e8aae75a-6e59-492f-b90e-85e2229e66ea.png)
+**_Undertale_** is the clear example of a simple and neat user interface
 
-If you want more information about the game, check the following link: https://github.com/ericlr1/Proyecto_1_Guerrilla-War/wiki
+![github 11](https://user-images.githubusercontent.com/99950345/223749625-7196d81d-5c73-4f03-9f95-f1733449d0a7.png)
+Despite having a user interface with a lot of information that goes unnoticed and does not bother the player, that is why **_Darkest Dungeon_** is a great example of order and distribution.
 
-## Installation
-**_Unzip the release folder and execute the .exe file_**
+## Bad examples
+
+![github 12](https://user-images.githubusercontent.com/99950345/223749842-55d93726-3184-427a-8f8a-f3776d360b28.png)
+Although **_WoW_**'s user interface is usually quite clean and simple, some external applications can modify it to the point of filling the information screen almost completely.
+
+![github 13](https://user-images.githubusercontent.com/99950345/223750124-996ae5f3-efe2-4b8d-af8f-86126c09727f.png)
+Despite being a great game and one of my favorites, **_Persona 5_** makes it clear to us that more is not equal to better, since despite having a super cool and well-worked UI, it takes away from the rest of the game and in some cases it gets annoying or look weird.
