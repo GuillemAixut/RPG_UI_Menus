@@ -1,6 +1,15 @@
 # RPG_UI_Menus
-## Presentation
-This project is a tribute to the game **_Guerrilla War_**, released by SNK in 1987. The team is composed by four students of CITM Terrassa (Catalonia, Spain).
+## What is a UI/HUD?
+
+The user interface or UI (User Interface) is a concept that encompasses information architecture, patterns and different visual elements.
+
+Provide clear, precise and direct and indirect information to the player so that he can enjoy the game to the fullest.
+![github 1](https://user-images.githubusercontent.com/99950345/223744802-a585a75e-b6bb-4b0b-8cbd-649268f35189.png)
+
+
+
+
+
 
 ## Description
 Guerrilla War, released in Japan as Guevara (ゲバラ), is an overhead run and gun game produced by SNK. Originally released for arcades in 1987 as a coin-operated arcade game, Guerrilla War was later ported to Amstrad CPC, Apple II, Commodore 64, NES, PlayStation Network, and ZX Spectrum.
