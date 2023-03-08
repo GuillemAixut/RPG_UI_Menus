@@ -91,3 +91,37 @@ Although **_WoW_**'s user interface is usually quite clean and simple, some exte
 ![github 13](https://user-images.githubusercontent.com/99950345/223750124-996ae5f3-efe2-4b8d-af8f-86126c09727f.png)
 
 Despite being a great game and one of my favorites, **_Persona 5_** makes it clear to us that more is not equal to better, since despite having a super cool and well-worked UI, it takes away from the rest of the game and in some cases it gets annoying or look weird.
+
+# Documentation Links and References
+
+**_Types of UI/HUD_**
+
+https://pressover.news/articulos/evolucion-de-la-ui-en-videojuegos/
+https://rockcontent.com/es/blog/interfaz-de-usuario/#:~:text=La%20interfaz%20de%20usuario%20o,y%20softwares%20de%20diversos%20dispositivos
+
+**_Differences between UI and HUD_**
+
+https://datablog.zeus.vision/2017/05/19/diferencias-entre-hud-y-gui/
+
+**_Good UI/HUD examples_**
+
+https://www.3djuegos.com/pc/noticias/10-videojuegos-que-usan-su-interfaz-para-algo-que-para-decirte-cuanta-vida-te-queda-brillantes-contando-su-historia-recurrir-a-palabras
+
+**_Bad UI/HUD examples_**
+
+https://www.gametopia.es/learning/article/03/2019/60/diseno-ui-para-crear-videojuegos
+
+**_The best RPGs of the last decade_**
+
+https://www.hobbyconsolas.com/videojuegos/top-juegos/pc/rpg/ultima-decada
+
+**_Presentation Link_**
+
+https://docs.google.com/presentation/d/1DEm836Qs1OqvS0fURmHF8er36yhVMr6Ja7xSs3NMa8c/edit?usp=sharing
+
+**_UI Wireframes/Templates for your RPG_**
+
+https://drive.google.com/file/d/12O4bFtlX-9WzcWoy6PaA79sdzJpvDjzF/view?usp=sharing
+
+
+
