@@ -7,8 +7,8 @@ Provide clear, precise and direct and indirect information to the player so that
 
 ![github 1](https://user-images.githubusercontent.com/99950345/223744802-a585a75e-b6bb-4b0b-8cbd-649268f35189.png)
 
-## Differences between UI and HUD
-### UI
+# Differences between UI and HUD
+## UI
 
 The expression UI comes from Interface of User, which stands for User Interface. The idea of ​​the UI is to guide the user through and provide them with information that they can interact with while leaving out the main action of the game.
 
@@ -16,7 +16,7 @@ An example of this are the Menus, for example the options, an inventory or even 
 
 ![github 2](https://user-images.githubusercontent.com/99950345/223746083-b1e87580-4e70-43e3-aaa7-a2322786df8b.png) ![github 3](https://user-images.githubusercontent.com/99950345/223746110-badc6e88-8946-44fe-9936-c53193dd6f4f.png)
 
-### HUD
+## HUD
 
 The HUD or Head-up display is the interface that is responsible for displaying relevant information for the player while he is playing the game without such information distracting the player from playing the game.
 
@@ -24,23 +24,23 @@ Some common examples are the life or number of lives, the energy or mana that th
 
 ![github 4](https://user-images.githubusercontent.com/99950345/223746231-6aabbc3c-d793-4926-bfb2-1c547fbf0aa6.png)![github 5](https://user-images.githubusercontent.com/99950345/223746269-70e4f592-47e9-4715-87dc-f3782d9c10dc.png)
 
-## Types of UI/HUD
+# Types of UI/HUD
 
-### Diegetic
+## Diegetic
 
 The old reliable, all those elements that exist about the game.
 Like time, points, damage, etc.
 
 https://www.youtube.com/watch?v=QDJDLvLiJww&t=1s
 
-### Not Diegetic
+## Not Diegetic
 
 Objects that exist in the game space and seek to be immersive.
 For example, a helmet with its own interface or a watch, etc.
 	
 The Dead Space helmet is a clear example since it has life integrated into the model
 
-### Space
+## Space
 
 They are those objects that are part of the game scenario but not of the story, that is,  
 the character is not aware that they exist.
@@ -49,7 +49,7 @@ For example, wings of light that indicate where there are things.
 
 https://www.youtube.com/watch?v=c8z3mHwxsDQ
 
-### Meta
+## Meta
 
 Similar to non-diegetic but more abstract.
 
