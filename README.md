@@ -29,9 +29,11 @@ Some common examples are the life or number of lives, the energy or mana that th
 ## Diegetic
 
 The old reliable, all those elements that exist about the game.
-Like time, points, damage, etc.
-![image](https://user-images.githubusercontent.com/99950345/223757074-03ac13a9-e094-4e65-9058-5b66ee6c0eac.png)
-  https://www.youtube.com/watch?v=QDJDLvLiJww&t=1s
+Like time, points, damage, etc. 
+
+![github types 1](https://user-images.githubusercontent.com/99950345/223757612-d4666294-14ea-4d3c-9b12-c7092b01487f.png)
+
+[Link to a Dead Space video](https://www.youtube.com/watch?v=QDJDLvLiJww&t=1s)
 
 ## Not Diegetic
 
@@ -46,8 +48,7 @@ They are those objects that are part of the game scenario but not of the story, 
 the character is not aware that they exist.
 
 For example, wings of light that indicate where there are things.
-
-https://www.youtube.com/watch?v=c8z3mHwxsDQ
+[Link to a The Legend of Zelda: Ocarina of Time video](https://www.youtube.com/watch?v=c8z3mHwxsDQ)
 
 ## Meta
 
@@ -57,7 +58,7 @@ Elements that, although they do not exist in the universe of the character, seek
 
 A clear example is the blood stains around the screen when your character is damaged.
 
-https://www.youtube.com/watch?time_continue=1&v=6MZwqMSCBF8&embeds_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_origin=https%3A%2F%2Fdocs.google.com&feature=emb_logo
+[Link to a Doom Arcade Version video]([https://github.com/ericlr1/Proyecto_1_Guerrilla-War/wiki/Audio#background-music](https://www.youtube.com/watch?time_continue=1&v=6MZwqMSCBF8&embeds_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_origin=https%3A%2F%2Fdocs.google.com&feature=emb_logo)
 
 # Theory of color
 
