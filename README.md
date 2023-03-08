@@ -63,7 +63,7 @@ A clear example is the blood stains around the screen when your character is dam
 
 ![github types 3](https://user-images.githubusercontent.com/99950345/223758745-7b194d19-19ca-44f3-a49d-0df484f0f901.png)
 
-[Link to a Doom Arcade Version video]([https://github.com/ericlr1/Proyecto_1_Guerrilla-War/wiki/Audio#background-music](https://www.youtube.com/watch?time_continue=1&v=6MZwqMSCBF8&embeds_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_origin=https%3A%2F%2Fdocs.google.com&feature=emb_logo)
+[Link to a Doom Arcade Version video](https://www.youtube.com/watch?time_continue=1&v=6MZwqMSCBF8&embeds_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_origin=https%3A%2F%2Fdocs.google.com&feature=emb_logo)
 
 # Theory of color
 
